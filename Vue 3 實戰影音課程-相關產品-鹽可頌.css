@@ -1,0 +1,18 @@
+.fixed-top li {
+  padding: 10px;
+}
+.fixed-top img {
+  width: 10%;
+}
+.header {
+  margin: 60px;
+}
+.header span {
+  color: red;
+  font-size: 20px;
+}
+.footer {
+  background-color: #84c1ff;
+  font-size: 20px;
+  padding: 90px;
+}

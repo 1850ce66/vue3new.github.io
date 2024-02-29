@@ -1,0 +1,22 @@
+.fixed-top li{padding:10px;}
+.fixed-top img{width:10%;}
+.fixed-top li:hover{border-bottom:2px solid #844200;}
+.fixed-top ul{display:flex ;
+       justify-content: space-between;}
+.fixed-top {display: flex;
+              justify-content:space-between;}
+.header{text-align:center;}
+.header h2:hover{color:#FF60AF;}
+.header h2{padding-top:40px;}
+.header img{width:60%;}
+.header p{font-size:20px;
+          margin:50px;
+          padding:50px;}
+.content{background-color:#4F9D9D;
+        padding:90px;
+       font-size:20px;}
+.footer{background-color:#84C1FF;
+       font-size:20px;
+       padding:90px;}
+.footer li{display: flex;
+              justify-content:space-between;}

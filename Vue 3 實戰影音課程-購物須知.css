@@ -1,0 +1,20 @@
+.fixed-top li{padding:10px;}
+.fixed-top img{width:10%;}
+.fixed-top li:hover{border-bottom:2px solid #844200;}
+.fixed-top {display: flex;
+       justify-content:space-between;}
+.fixed-top ul{display:flex ;
+              justify-content: space-between;}
+.header h2{text-align:center;}
+.header{font-size:20px;
+       margin:60px;}
+.header span{font-size:25px;}
+.header ul{padding:10px;
+          margin:10px;}
+.header li{padding:10px;}
+.footer{background-color:#84C1FF;
+       font-size:20px;
+       padding:90px;}
+.footer li{display: flex;
+              justify-content:space-between;}
+       

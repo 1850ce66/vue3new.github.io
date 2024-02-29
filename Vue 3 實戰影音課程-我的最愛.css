@@ -1,0 +1,16 @@
+.fixed-top li{padding:10px;}
+.fixed-top li:hover{border-bottom:2px solid #844200;}
+.fixed-top img{width:10%;}
+.fixed-top {display: flex;
+        justify-content:space-between;}
+ .fixed-top ul{display:flex ;
+               justify-content:space-between;}
+.content{margin:60px;}
+.content h2{text-align:center;
+           padding-bottom:20px;}
+.content h2:hover{color:#FF44FF;}
+.footer{background-color:#84C1FF;
+        font-size:20px;
+       padding:90px;}
+.footer li{display: flex;
+        justify-content:space-between;}

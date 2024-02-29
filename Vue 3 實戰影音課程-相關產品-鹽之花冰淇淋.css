@@ -1,0 +1,18 @@
+.fixed-top li{padding:10px;}
+.fixed-top {display: flex;
+       justify-content:space-between;}
+.fixed-top img{width:10%;}
+.fixed-top ul{display:flex ;
+              justify-content: space-between;}
+.header{margin:60px;}
+.header ul{display: flex;
+       justify-content:space-between;}
+.header li p{padding:20px;}
+.header img{width: 50%;}
+.header span{color:red;
+            font-size:20px;}
+.footer{background-color:#84C1FF;
+       font-size:20px;
+       padding:90px;}
+.footer li{display: flex;
+       justify-content:space-between;}
